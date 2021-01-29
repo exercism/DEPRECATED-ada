@@ -1,6 +1,7 @@
 {
   "track_id": "ada",
   "language": "Ada",
+  "slug": "ada",
   "active": false,
   "status": {
     "concept_exercises": false,

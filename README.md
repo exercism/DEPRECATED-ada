@@ -1,5 +1,5 @@
 # Exercism Ada Track
 
-[![Build Status](https://travis-ci.org/exercism/ada.svg?branch=master)](https://travis-ci.org/exercism/ada)
+[![Configlet Status](https://github.com/exercism/ada/workflows/configlet/badge.svg)]
 
 Exercism exercises in Ada.
